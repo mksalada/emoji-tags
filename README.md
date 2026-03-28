@@ -16,12 +16,12 @@ Here’s an emoji legend for Hugo site changelog and content states. You can dro
 | 🔒 | Security update |
 | 🎨 | UI / design change |
 | 📚 | Documentation |
-| ✅	| Testing / QA |
-| ❌	| Deprecation / removal |
-| ✨	| New feature / enhancement |
-| ♻️	| Refactor / code cleanup |
-| 🗄️	| Database / data update |
-| 📊	| Analytics / logging |
+| ✅ | Testing / QA |
+| ❌ | Deprecation / removal |
+| ✨ | New feature / enhancement |
+| ♻️ | Refactor / code cleanup |
+| 🗄️ | Database / data update |
+| 📊 | Analytics / logging |
 
 ---
 
@@ -55,4 +55,4 @@ Here’s an emoji legend for Hugo site changelog and content states. You can dro
 
 ## 🤝 Contributing
 
-Contributions, issues, and suggestions are welcome at [GitHub](https://github.com/mksalada/emoji-tags)
+Contributions, issues, and suggestions are welcome [here](https://github.com/mksalada/emoji-tags)
