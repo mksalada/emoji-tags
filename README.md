@@ -1,36 +1,16 @@
-# Emoji Tags
-Changelogs Emoji Tags Legend
+# 🔖 Emoji Tags
 
-Here’s a full combined emoji legend for Hugo site changelog, covering both environment/branch/config and content states. You can drop this at the top of your `CHANGELOG.md` so it’s clear for everyone.
+Here’s an emoji legend for Hugo site changelog and content states. You can drop this at the top of your `CHANGELOG.md` so it’s clear for everyone.
 
 ---
 
 ## 🗂️ Changelog Emoji Legend
-
-### Environment / Branch / Config
 
 | Emoji | Meaning |
 | -------- | ------- |
 | 🛠️ | Development branch / environment |
 | 🚀 | Production branch / environment |
 | ⚙️ | Configuration changes |
-
-### Content State / Hugo Site
-
-| Emoji | Meaning |
-| ------- | -------- |
-| 📝 | Draft content |
-| 📖 | Published content |
-| ✏️ | Updated / edited content |
-| 🗑️ | Deleted content |
-| ⏰ | Scheduled content |
-| 🌟 | Featured / highlighted content |
-| 👀 | Needs review / pending approval |
-
-### Other Common Change Types
-
-| Emoji |Meaning |
-| ------ | --------- |
 | 🐛 | Bug fix / hotfix |
 | ⚡ | Performance improvement / optimization |
 | 🔒 | Security update |
@@ -45,6 +25,20 @@ Here’s a full combined emoji legend for Hugo site changelog, covering both env
 
 ---
 
+## 📝 Content State / Hugo Site
+
+| Emoji | Meaning |
+| ------- | -------- |
+| 📝 | Draft content |
+| 📖 | Published content |
+| ✏️ | Updated / edited content |
+| 🗑️ | Deleted content |
+| ⏰ | Scheduled content |
+| 🌟 | Featured / highlighted content |
+| 👀 | Needs review / pending approval |
+
+---
+
 ## 💡 Usage Tips:
 
 - Combine multiple emojis if needed:
@@ -56,3 +50,9 @@ Here’s a full combined emoji legend for Hugo site changelog, covering both env
 - Keep this legend at the top of the changelog so it’s easy to reference.
 
 - Stick to the primary emojis to avoid clutter—your main goal is quick visual scanning.
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and suggestions are welcome at [GitHub](https://github.com/mksalada/emoji-tags)
